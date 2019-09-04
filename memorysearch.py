@@ -1,4 +1,4 @@
-# memory search.py           6/23/08
+# memorysearch.py           6/23/08
 #
 # last modified 8/08/08
 #
